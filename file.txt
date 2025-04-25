@@ -1,1 +1,6 @@
 hello world
+total 8
+drwxr-xr-x   4 obahi  staff  128 Apr 25 17:14 .
+drwx------+  6 obahi  staff  192 Apr 25 17:14 ..
+drwxr-xr-x  12 obahi  staff  384 Apr 25 17:15 .git
+-rw-r--r--   1 obahi  staff   12 Apr 25 17:14 file.txt
